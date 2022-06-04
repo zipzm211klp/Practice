@@ -31,3 +31,5 @@ Lab1_v2
     - bulet three
     - bulet four
   - bulet five
+  - bulet six
+  - bulet seven
